@@ -13,7 +13,9 @@ Previo la obtención del Título de:
 **INGENIERO EN CIENCIAS DE LA COMPUTACIÓN**
 
 *Presentado por:*
+
     Coloma Ortiz Alfred Josue
+
     Jandry Eduardo Rodriguez Talledo
 
 GUAYAQUIL - ECUADOR
