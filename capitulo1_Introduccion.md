@@ -13,20 +13,15 @@ Uno de los principales motivos para llevar el juego físico a un entorno virtual
 Además, el formato virtual permite la personalización y escalabilidad del juego. Mientras que un juego físico es estático y no puede modificarse fácilmente, una versión digital puede actualizarse y adaptarse según las necesidades del usuario. Esto ofrece la oportunidad de crear diferentes niveles de dificultad o introducir nuevos retos y actividades, ajustándose al ritmo de aprendizaje de cada niño. De esta manera, el juego virtual no solo mantiene el atractivo del formato físico, sino que también abre la puerta a una experiencia más personalizada, que se puede ajustar a los intereses y habilidades de cada niño.
 
 ### 1.3 Objetivos
-Objetivo principal
 Desarrollar un cuento pedagógico interactivo en formato digital, utilizando tecnologías 3D y realidad aumentada, con el propósito de fomentar el desarrollo cognitivo, emocional y social de niños en edad preescolar a través de actividades lúdicas y educativas.
 
 #### 1.3.1 Objetivos específicos
 1. Diseñar un entorno inmersivo basado en realidad aumentada que permita la interacción con personajes y objetos tridimensionales.
 Crear escenas interactivas donde los niños puedan participar activamente en la narrativa, utilizando elementos virtuales en AR.
 
-2. Implementar actividades pedagógicas dentro de la narrativa para promover el desarrollo de habilidades cognitivas.
-Incluir actividades como la resolución de acertijos, la identificación de emociones, y la construcción de rompecabezas, integrando desafíos graduales para estimular el pensamiento lógico y la resolución de problemas.
+2. Implementar actividades pedagógicas interactivas dentro de la narrativa que promuevan el desarrollo cognitivo, la motricidad fina y la creatividad, mediante la resolución de acertijos, identificación de emociones, construcción de rompecabezas y tareas creativas como colorear objetos 3D, con desafíos que estimulen el pensamiento lógico, la coordinación visomotora y la expresión creativa.
 
-3. Desarrollar mecánicas de juego que estimulen la motricidad fina y la expresión creativa.
-Crear niveles como la "Expresión Musical" donde los niños coloreen objetos 3D, fomentando la coordinación visomotora y la creatividad.
-
-4. Elaborar un manual para educadores y tutores que explique cómo usar el juego de manera efectiva en entornos educativos.
+3. Elaborar un manual para educadores y tutores que explique cómo usar el juego de manera efectiva en entornos educativos.
 Proveer una guía que detalle cómo el cuento interactivo puede complementar las actividades de enseñanza y apoyo al aprendizaje preescolar.
 
 ### 1.4 Marco Teórico
